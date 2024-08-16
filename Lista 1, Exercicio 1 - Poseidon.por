@@ -9,7 +9,7 @@ programa
 		leia(nome)
 		escreva("Qual o seu sobnenome?")
 		leia(sobrenome)
-		escreva("Bem vindo ao SERRATEC,", nome ,sobrenome)
+		escreva("Bem vindo ao SERRATEC,", nome ," ",sobrenome)
 	}
 }
 /* $$$ Portugol Studio $$$ 
