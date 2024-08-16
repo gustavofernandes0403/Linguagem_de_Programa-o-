@@ -4,9 +4,9 @@ programa
 	funcao inicio()
 	{
 		cadeia nome
+		cadeia sobrenome
 		escreva("Qual o seu nome?")
 		leia(nome)
-		cadeia sobrenome
 		escreva("Qual o seu sobnenome?")
 		leia(sobrenome)
 		escreva("Bem vindo ao SERRATEC,", nome ,sobrenome)
